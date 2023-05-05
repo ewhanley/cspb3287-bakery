@@ -1,0 +1,26 @@
+ingredient_ID,supplier_ID,name,category,description
+1,1,Whole Wheat Bread Flour,Wheat Flour,100% whole wheat flour
+2,1,Appalachian White Wheat Flour,White Flour,white bread flour
+3,1,Medium Rye,Medium Rye Flour,medium dark rye flour
+4,1,Light Rye,Light Rye Flour,light rye flour
+5,1,Whole Spelt,Spelt Flour,whole grain spelt flour
+6,2,Organic High-Protein Bread Flour,Organic Wheat Flour,organic whole grain bread flour
+7,2,Organic All-Purpose Flour,Organic White Flour,organic AP flour
+8,2,Organic Artisan Blend Bread Flour,Organic Wheat Flour,organic medium grain bread flour
+9,2,Organic Sifted Artisan Bread Flour,Organic White Flour,light white bread flour
+10,2,Organic Red Fife Heirloom Flour,Organic Wheat Flour,100% whole grain heirloom wheat flour
+11,3,Bread Flour,White Flour,best seller - white bread flour
+12,3,Stone-Ground Whole Wheat Flour,Wheat Flour,"stone ground, high protein bread flour"
+13,3,Organic Medium Rye,Medium Rye Flour,organic stone-ground rye flour
+14,4,Instant Yeast,Yeast,Instant yeast
+15,4,Coarse Salt,Salt,Coarse sea salt
+16,4,Cane Sugar,White Sugar,white cane sugar
+17,4,Brown Cane Sugar,Brown Sugar,brown cane sugar
+18,4,Olive oil,Oil,extra virgin olive oil
+19,4,Canola oil,Oil,canola oil bulk
+20,5,Instant Yeast,Yeast,Instant yeast
+21,5,Coarse Salt,Salt,Coarse sea salt
+22,5,Cane Sugar,White Sugar,white cane sugar
+23,5,Brown Cane Sugar,Brown Sugar,brown cane sugar
+24,5,Olive oil,Oil,extra virgin olive oil
+25,5,Canola oil,Oil,canola oil bulk
